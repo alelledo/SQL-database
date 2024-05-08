@@ -40,8 +40,6 @@ After executing the SQL queries, the following insights were obtained:
 
 ## Note
 
-Ensure that the database schema matches the table and column names referenced in the SQL queries for accurate execution.
-
 
 
 <img width="998" alt="Screenshot 2023-06-26 at 21 08 17" src="https://github.com/alelledo/sql/assets/104741193/0c3e956c-69cc-4f63-b5dd-1e407765a71d">
