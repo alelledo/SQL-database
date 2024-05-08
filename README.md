@@ -1,10 +1,9 @@
-A SQL project in which data relevant to sales in swimwear for an anonymous company is considered and selected from multiple datasets, SQL is used for aggregation and to do calculations such as conversion rate. The goal of the project was to study volatily in the swimwear category.
-
-# Project README
+# SQL Swimwear Project
 
 ## Overview
 
-This project involves the creation and analysis of temporary tables using SQL queries on a database containing session, customer, order, and article event data. The primary objective is to generate insights into customer behavior, sales performance, conversion rates, and other relevant metrics.
+A SQL project in which data relevant to sales in swimwear for an anonymous company is considered and selected from multiple datasets, SQL is used for aggregation and to do calculations such as conversion rate. The goal of the project was to study volatily in the swimwear category.
+This project involves the creation and analysis of temporary tables using SQL queries on a database containing session, customer, order, and article event data. Through SQL I generate insights into customer behavior, sales performance, conversion rates, and other relevant metrics.
 
 ## Temporary Tables
 
